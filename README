@@ -24,3 +24,10 @@ Copyright (c) 2008 MaxMind LLC
 
 All rights reserved.  This package is free software; it is licensed
 under the LGPL.
+
+Note:
+
+This is a fork of the Maxmind GeoIP Python wrapper library originally
+from GitHub at https://github.com/jlopez/maxmind-geoip with some minor
+changes for the openlibrary.org project. The changes are just to
+smoothen the process of uploading it onto PyPI.
